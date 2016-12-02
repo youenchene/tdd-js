@@ -4,6 +4,6 @@
 
 ## How to run :
 
-nom install
+npm install
 
 mocha tests.js
